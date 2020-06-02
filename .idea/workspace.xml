@@ -1,73 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e946a24-0ddd-4475-90de-91ecbfc5d67c" name="Default Changelist" comment="" />
+    <list default="true" id="2e946a24-0ddd-4475-90de-91ecbfc5d67c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/greedy/BOJ11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/greedy/BOJ1107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/greedy/BOJ11399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cbviatFXsFmll67NVBCuDrk6GB" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algorithm.greedy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BOJ11399">
+    <configuration name="BOJ11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.greedy.BOJ11047" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.greedy.BOJ1107" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.greedy.BOJ11399" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.Main" />
       <module name="algorithm" />
@@ -78,6 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BOJ11047" />
+      <item itemvalue="Application.BOJ11399" />
+      <item itemvalue="Application.BOJ1107" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ1107" />
+        <item itemvalue="Application.BOJ11399" />
+        <item itemvalue="Application.BOJ11047" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -101,7 +134,89 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590810235665</updated>
+      <workItem from="1590810240857" duration="6507000" />
+      <workItem from="1590945908129" duration="374000" />
+      <workItem from="1591096927379" duration="303000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590812030026">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1590812030026" />
+    <state x="423" y="105" key="CommitChangelistDialog2" timestamp="1590811977662">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="423" y="105" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1590811977662" />
+    <state width="1638" height="318" key="GridCell.Tab.0.bottom" timestamp="1590945033963">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1590945033963" />
+    <state width="1638" height="318" key="GridCell.Tab.0.center" timestamp="1590945033960">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1590945033960" />
+    <state width="1638" height="318" key="GridCell.Tab.0.left" timestamp="1590945033959">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1590945033959" />
+    <state width="1638" height="318" key="GridCell.Tab.0.right" timestamp="1590945033962">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1590945033962" />
+    <state width="1638" height="318" key="GridCell.Tab.1.bottom" timestamp="1590945033969">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1590945033969" />
+    <state width="1638" height="318" key="GridCell.Tab.1.center" timestamp="1590945033966">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1590945033966" />
+    <state width="1638" height="318" key="GridCell.Tab.1.left" timestamp="1590945033965">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1590945033965" />
+    <state width="1638" height="318" key="GridCell.Tab.1.right" timestamp="1590945033968">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="318" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1590945033968" />
+    <state x="517" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1591096965510">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="517" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1591096965510" />
+    <state x="623" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590811553131">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="623" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.960@0.23.1680.960" timestamp="1590811553131" />
+    <state x="389" y="246" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590812121420">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="389" y="246" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.960@0.23.1680.960" timestamp="1590812121420" />
+    <state x="217" y="125" key="new project wizard" timestamp="1590897485796">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="217" y="125" key="new project wizard/0.23.1680.960@0.23.1680.960" timestamp="1590897485796" />
+    <state x="505" y="234" key="search.everywhere.popup" timestamp="1590810631344">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="505" y="234" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1590810631344" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/greedy/BOJ11399.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$Main.ic" NAME="Main Coverage Results" MODIFIED="1590810894009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
